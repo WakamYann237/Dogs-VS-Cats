@@ -103,9 +103,7 @@ Le modèle affiche les courbes d'exactitude et de perte (entraînement vs valida
 
 > Exemple de prédictions (voir screenshot) :
 
-![Uploading Capture d’écran du 2026-04-26 13-50-34.png…]()
-
-
+![Prédictions](./assets/predictions.png)
 ---
 
 ## 📄 Licence
